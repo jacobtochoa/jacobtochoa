@@ -1,22 +1,12 @@
-<h1 align="left">🎱Jacob Ochoa</h1>
-
-###
+# Jacob Ochoa
 
 **`Junior Software Developer`**
 
-###
+👋🏼 Hey there! I'm a computer engineering student working towards becoming a full-stack developer. Currently focused on learning JavaScript and React to build dynamic web applications. I also have a strong passion for cars and the automotive industry. Always eager to learn, build, and explore new technologies.
 
-👋🏼 Hey there! I'm a computer engineering student working towards becoming a full-stack developer. Currently focused on learning JavaScript and React to build dynamic web applications. I also have a strong passion for cars and the automotive industry. Always eager to learn, build, and explore new technologies.</h3>
-
-###
-
-<h1 align="left"></h1>
-
-###
+---
 
 <h3 align="left">💻 Languages and Tools</h3>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -30,32 +20,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </div>
 
-###
-
 <h2 align="left"></h2>
 
-###
-
 <h3 align="left">📊 Stats</h3>
-
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jacobtochoa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jacobtochoa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
-
 <h2 align="left"></h2>
-
-###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jacobtochoa/jacobtochoa/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jacobtochoa/jacobtochoa/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/jacobtochoa/jacobtochoa/output/github-snake.svg" />
 </picture>
-
-###
-
