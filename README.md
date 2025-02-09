@@ -2,7 +2,7 @@
 
 **`Junior Software Developer`**
 
-👋🏼 Hey there! I'm a computer engineering student working towards becoming a full-stack developer. Currently focused on learning JavaScript and React to build dynamic web applications. I also have a strong passion for cars and the automotive industry. Always eager to learn, build, and explore new technologies.
+👋🏼 Hey there! I'm a computer engineering student at Cal Poly Pomona working towards becoming a full-stack developer. Currently focused on learning HTML and CSS to build and style web pages. I also have a strong passion for cars and the automotive industry. Always eager to learn, build, and explore new technologies.
 
 ---
 
