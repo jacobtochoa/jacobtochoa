@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Junior Software Developer</h3>
+**`Junior Software Developer`**
 
 ###
 
