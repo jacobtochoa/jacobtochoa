@@ -2,7 +2,7 @@
 
 **`Junior Software Developer`**
 
-👋🏼 Hey there! I'm a computer engineering student at Cal Poly Pomona working towards becoming a full-stack developer. Currently focused on learning HTML and CSS to build and style web pages. I also have a strong passion for cars and the automotive industry. Always eager to learn, build, and explore new technologies.
+👋🏼 Hey there! I'm a computer science student at Western Governors University working towards becoming a full-stack developer. Currently focused on learning HTML and CSS to build and style web pages. I love cars and I'm always eager to learn, build, and explore new technologies.
 
 ---
 
